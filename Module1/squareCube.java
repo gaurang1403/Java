@@ -11,7 +11,7 @@ public class squareCube {
 		int square = num * num;
 		int cube = num * num * num;
 		
-		System.out.println("Swuare " + square);
+		System.out.println("Square " + square);
 		System.out.println("Cube " + cube);
 
 	}
